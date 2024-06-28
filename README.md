@@ -12,3 +12,6 @@ https://github.com/Kraddak/UnityStudy/wiki/Creating-a-map-with-floating-islands
 
 ターン制のシステム
 https://github.com/Kraddak/UnityStudy/wiki/My-turn-system-approach
+
+Unity Terrainクラスを用いてマップを作る
+https://github.com/Kraddak/UnityStudy/wiki/Terrain-Generation-(new-map-approach)
